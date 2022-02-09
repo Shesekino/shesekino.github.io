@@ -1,9 +1,0 @@
-
-
-influence & accountability matrix (interesting to explore)
-influence = (authority + persuation) * credibility
-
-low influence & high accountability: technological(?) scapegoat
-low influence & low accountability: external advisor
-high influence & low accountability: technological(?) dictator(?)
-high influence & high accountability: design partner?
