@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Leading Without Authority: A Cautionary Tale"
-date:   2022-02-06 14:00:00 +0300
-categories: opinion leadership
+date:   2022-02-10 14:00:00 +0300
+tags: opinion leadership
 published: true
 ---
 Changing my role from an individual contributor to an architect, a role that relies heavily on one’s ability to lead without authority, had some challenges I did not expect.
@@ -24,7 +24,9 @@ During the months that followed I would reflect on my role and on the sustainabi
 
 *In a state of equilibrium, the relationship between Authority and Accountability has to be linear and aligned.*
 
-What I mean by that, is that if and only if someone is accountable for getting something done, they’d need the proper authority (direct, or borrowed) in order to efficiently make it happen. To justify that claim, let’s examine four different configurations of authority and accountability.
+What I mean by that, is that if and only if someone is accountable for getting something done, they’d need the proper authority (direct, or borrowed) in order to efficiently make it happen. To justify that claim, let’s examine four different configurations of authority and accountability:
+
+![authority-accountability-matrix](/assets/authority-accountability-1.png)
 
 ### High authority, high accountability: Partner
 
@@ -64,6 +66,3 @@ Since then, whenever I approach a task that relies heavily on *leading without a
 * What kind of conflicts might the different parties involved have and how would we go about resolving them as a group
 
 If I have no authority over the work, I can still be a valuable consultant to the team. High authority and accountability means I’m a full partner through thick and thin. Any other way is unlikely to result in success.
-
-Here's a simple matrix to print and hang on your wall for reference:
-![authority-accountability-matrix](/assets/authority-accountability-1.png)
